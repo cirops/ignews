@@ -10,8 +10,8 @@ export function Header() {
         <Image
           src="/images/logo.svg"
           alt="ig.news seu blog de tecnologia"
-          width={200}
-          height={200}
+          height={1}
+          width={1}
         />
         <nav>
           <a className={styles.active} href="">
